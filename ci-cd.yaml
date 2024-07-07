@@ -1,8 +1,8 @@
 name: Python CI/CD Pipeline
 
-on: 
-  push:
-   branches:
+ on: 
+   push:
+    branches:
      - main
 
 jobs:
